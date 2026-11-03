@@ -6,7 +6,7 @@
 - **Settlement:** 	Your second version: money moves from the customer’s bank to the processor
 - **Refund:** The merchant sends money back from an earlier charge
 - **Dispute:** The customer challenges a charge through their bank
-- **Payout:** payout is getting money from processor to marchants bank,
+- **Payout:** payout is getting money from processor to merchants bank,
 - **PaymentIntent vs. Charge:** The overall process of collecting payment vs. one attempt, and one PaymentIntent can have several Charges
 - **Balance Transaction:** Records every balance change, with its source and fee, so finance can tally everything
 - **Currency rule:** Amounts are integers in the smallest unit, and you divide by 10 to the power of the currency’s decimal places
